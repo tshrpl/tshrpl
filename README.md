@@ -6,4 +6,4 @@
 
 # About me
 hi 👋 My name is Tushar Paul
-I'm 17y old and I've a passion for programming and Computer Science
+I'm 18y old and I've a passion for programming and Computer Science
