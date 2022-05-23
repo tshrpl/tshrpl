@@ -10,4 +10,4 @@
 
 # About me
 hi 👋 My name is Tushar Paul
-I'm 18y old and I've a passion for programming and Computer Science
+My IQ is 20 and I've a passion for programming and Computer Science
