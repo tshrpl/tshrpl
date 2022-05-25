@@ -1,12 +1,16 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tshrpl.tshrpl.readme&left_color=green&right_color=red)
+  [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=tshrpl&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true)](https://github.com/tshrpl)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tshrpl.tshrpl.readme&left_color=green&right_color=red)
 
-[![tshrpl's github streak data](https://github-readme-streak-stats.herokuapp.com/?user=tshrpl&show_icons=true&hide_border=true&theme=dark)](https://github.com/tshrpl)
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=tshrpl&show_icons=true&title_color=fff&icon_color=dddddd&text_color=1c5fc7&bg_color=0d1117&count_private=true&hide_border=true)
+  ![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=tshrpl&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D&hide_border=true)
 
-[![tshrpl's github activity graph](https://activity-graph.herokuapp.com/graph?username=tshrpl&theme=github)](https://github.com/tshrpl)
+  ![repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tshrpl&theme=github_dark)
+  ![commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tshrpl&theme=github_dark)
+</div>
 
 # About me
 hi 👋 My name is Tushar Paul
