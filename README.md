@@ -10,6 +10,9 @@
 
   ![repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tshrpl&theme=github_dark)
   ![commit per language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tshrpl&theme=github_dark)
+
+  ![github contribution snake animation](https://raw.githubusercontent.com/tshrpl/tshrpl/output/github-contribution-grid-snake.svg)
+
 </div>
 
 # About me
